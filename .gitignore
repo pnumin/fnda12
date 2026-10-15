@@ -1,0 +1,8 @@
+*.xlsx
+*.csv
+*.zip
+*.docx
+*.pptx
+server.cjs
+start-site.cmd
+data/previous-layout*/
